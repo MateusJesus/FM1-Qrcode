@@ -1,0 +1,11 @@
+.footer {
+    background-color: var(--bg-footer);
+    color: var(--color-text);
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer a {
+    color: var(--color-text-footer);
+}
