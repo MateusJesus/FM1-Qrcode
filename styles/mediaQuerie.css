@@ -1,0 +1,19 @@
+@media  (max-width: 600px) {
+    .main {
+        height: 70vh;
+    }
+
+    .container {
+    width: 80%;
+    }
+}
+
+@media  (max-width: 430px) {
+    .main {
+        height: 80vh;
+    }
+
+    .container {
+    width: 95%;
+    }
+}
